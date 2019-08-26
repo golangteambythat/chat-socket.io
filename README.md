@@ -1,3 +1,13 @@
+# how to start
+1.需要nodejs环境
+2.git clone git@github.com:golangteambythat/chat-socket.io.git 
+3.cd chat-socket.io 
+4.npm install
+5.npm run start
+6.open localhost:3000 on Browser
+
+
+
 # chat-example
 
 This is the source code for a very simple chat example used for
